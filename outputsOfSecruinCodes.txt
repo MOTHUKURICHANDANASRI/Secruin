@@ -1,0 +1,131 @@
+Outputs:
+
+Question 1(Output):
+
+36
+
+Question 2(Ouput):
+
+sum: 2
+die a: 1
+die b: 1
+sum: 3
+die a: 1
+die b: 2
+sum: 4
+die a: 1
+die b: 3
+sum: 5
+die a: 1
+die b: 4
+sum: 6
+die a: 1
+die b: 5
+sum: 7
+die a: 1
+die b: 6
+sum: 3
+die a: 2
+die b: 1
+sum: 4
+die a: 2
+die b: 2
+sum: 5
+die a: 2
+die b: 3
+sum: 6
+die a: 2
+die b: 4
+sum: 7
+die a: 2
+die b: 5
+sum: 8
+die a: 2
+die b: 6
+sum: 4
+die a: 3
+die b: 1
+sum: 5
+die a: 3
+die b: 2
+sum: 6
+die a: 3
+die b: 3
+sum: 7
+die a: 3
+die b: 4
+sum: 8
+die a: 3
+die b: 5
+sum: 9
+die a: 3
+die b: 6
+sum: 5
+die a: 4
+die b: 1
+sum: 6
+die a: 4
+die b: 2
+sum: 7
+die a: 4
+die b: 3
+sum: 8
+die a: 4
+die b: 4
+sum: 9
+die a: 4
+die b: 5
+sum: 10
+die a: 4
+die b: 6
+sum: 6
+die a: 5
+die b: 1
+sum: 7
+die a: 5
+die b: 2
+sum: 8
+die a: 5
+die b: 3
+sum: 9
+die a: 5
+die b: 4
+sum: 10
+die a: 5
+die b: 5
+sum: 11
+die a: 5
+die b: 6
+sum: 7
+die a: 6
+die b: 1
+sum: 8
+die a: 6
+die b: 2
+sum: 9
+die a: 6
+die b: 3
+sum: 10
+die a: 6
+die b: 4
+sum: 11
+die a: 6
+die b: 5
+sum: 12
+die a: 6
+die b: 6
+
+Question 3(Output):
+
+P(Sum 2) = 1/36
+P(Sum 3) = 2/36
+P(Sum 4) = 3/36
+P(Sum 5) = 4/36
+P(Sum 6) = 5/36
+P(Sum 7) = 6/36
+P(Sum 8) = 5/36
+P(Sum 9) = 4/36
+P(Sum 10) = 3/36
+P(Sum 11) = 2/36
+P(Sum 12) = 1/36
+
